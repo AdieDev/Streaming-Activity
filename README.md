@@ -3,6 +3,8 @@ Your live broadcast activity costume is discord!
 
 Discord Token Finder [Click Here](https://github.com/Adiezt/Discord-Streaming-Status/files/7848742/discord-token-finder.txt)
 
+Delete the .replit file so that it runs successfully :) 
+
 ### 💨 Run the projects
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Adiezt/Streaming-Activity)
