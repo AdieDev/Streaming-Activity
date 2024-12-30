@@ -19,4 +19,4 @@ Delete the .replit file so that it runs successfully :)
 - Instagram [@its.adiezt_](https://www.instagram.com/its.adiezt_/)
 - Youtube [Adiezt Gaming](https://www.youtube.com/AdieztGaming)
 
-##### ©️ Adiezt License
+##### © Fold Team Management Licenses
